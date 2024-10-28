@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @EqualGamin
+- 👀 I’m interested in Art, and Game Dev
+- 🌱 I’m currently learning Godot
+- 😄 Pronouns: He/him
